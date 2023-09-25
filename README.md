@@ -1,2 +1,2 @@
 # SVM-Classifier
-Implement sklearn SVM Classifier on dataset "a9a".
+Implement simple sklearn SVM Classifier on dataset "a9a".
